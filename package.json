@@ -1,0 +1,19 @@
+{
+  "name": "jie-kou",
+  "version": "1.0.0",
+  "description": "git-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hou1002625505/git-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hou1002625505/git-express/issues"
+  },
+  "homepage": "https://github.com/Hou1002625505/git-express#readme"
+}
